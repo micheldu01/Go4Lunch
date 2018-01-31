@@ -100,6 +100,7 @@ public class MainActivity extends AppCompatActivity implements
         }
     }
 
+    //implement button DrawerLayout
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
 
