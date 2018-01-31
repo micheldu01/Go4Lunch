@@ -68,6 +68,7 @@
             android:fitsSystemWindows="true"
             android:background="@color/colorAccent"
             android:theme="@style/NavigationViewStyle"
+            app:itemIconTint="@android:color/white"
             app:headerLayout="@layout/activity_main_nav_header"
             app:menu="@menu/activity_main_menu_drawer" />
 
